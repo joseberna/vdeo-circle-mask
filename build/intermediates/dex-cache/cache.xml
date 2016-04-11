@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/MacintoshHD/Developer/Android/prueba/circle-video/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Volumes/MacintoshHD/Developer/Android/prueba/circle-video/app/build/intermediates/pre-dexed/debug/classes-9de1a9a57477781c755863cf841dcb7d748eb05a.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacintoshHD/Developer/Android/prueba/prueba-video-mask/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Volumes/MacintoshHD/Developer/Android/prueba/prueba-video-mask/app/build/intermediates/pre-dexed/debug/classes-2a0a5050083003e7a239c68aeaafa5cd070553cb.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacintoshHD/Developer/Android/prueba/prueba-video-mask/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Volumes/MacintoshHD/Developer/Android/prueba/prueba-video-mask/app/build/intermediates/pre-dexed/debug/classes-a6f90a91ea37948a42b94d53265c8c885858712d.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacintoshHD/Developer/Android/prueba/prueba-video-mask/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Volumes/MacintoshHD/Developer/Android/prueba/prueba-video-mask/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0-08cbf2f704c349bc6a17d5de9caa950dd9b2b2b3.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacintoshHD/Developer/Android/prueba/prueba-video-mask/app/build/intermediates/exploded-aar/prueba-video-mask/FFmpegAndroid/unspecified/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="eb83f8b4b0eb6ae464c7f6aa7ad4d9d93c80570c">
+        <dex dex="/Volumes/MacintoshHD/Developer/Android/prueba/prueba-video-mask/app/build/intermediates/pre-dexed/debug/classes-831e357029a5a6d591f1799c976bba569637baa4.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacintoshHD/Library/Android/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Volumes/MacintoshHD/Developer/Android/prueba/circle-video/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0-9e8c2c380fba07014bb28ba589191876dc326e0f.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacintoshHD/Developer/Android/prueba/circle-video/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Volumes/MacintoshHD/Developer/Android/prueba/circle-video/app/build/intermediates/pre-dexed/debug/classes-1e923c96dae37a8fb712d6f6c7b21412ccd1e8a2.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacintoshHD/Developer/Android/prueba/circle-video/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Volumes/MacintoshHD/Developer/Android/prueba/circle-video/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0-eff6ac1f85038d0a358dad788e59181361cceb84.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacintoshHD/Developer/Android/prueba/circle-video/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Volumes/MacintoshHD/Developer/Android/prueba/circle-video/app/build/intermediates/pre-dexed/debug/classes-5061c532df2f6ddf68e25c7e0a7c611640c764f0.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacintoshHD/Developer/Android/prueba/circle-video/app/build/intermediates/exploded-aar/circle-video/FFmpegAndroid/unspecified/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4f96f3b085268836c8660a267f2eff938ff89316">
+        <dex dex="/Volumes/MacintoshHD/Developer/Android/prueba/circle-video/app/build/intermediates/pre-dexed/debug/classes-3b55a7fe9b790e9001e2633b908f65c94d6a0b46.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacintoshHD/Developer/Android/prueba/circle-video/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Volumes/MacintoshHD/Developer/Android/prueba/circle-video/app/build/intermediates/pre-dexed/debug/classes-4a871df9ce602720007abaa7123e20cd47d66a40.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacintoshHD/Developer/Android/prueba/prueba-video-mask/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Volumes/MacintoshHD/Developer/Android/prueba/prueba-video-mask/app/build/intermediates/pre-dexed/debug/classes-6fd78125557c95399a96243842488c8abf379baf.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacintoshHD/Developer/Android/prueba/prueba-video-mask/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Volumes/MacintoshHD/Developer/Android/prueba/prueba-video-mask/app/build/intermediates/pre-dexed/debug/classes-fd85c689167b2cb1d6f01b659d6b20f58965461b.jar" />
+    </item>
+
+</items>
